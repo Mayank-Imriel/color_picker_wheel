@@ -2,8 +2,10 @@
 
 A simple color picker to select color from given range of colors and set its shade more darker or lighter
 
-## Screenshot
-<img rc="ss1.png" height = "300em" />
+### Screenshot
+
+<img src="ss1.png" height="300em" />
+
 ## Getting Started
 
 To use this plugin :
